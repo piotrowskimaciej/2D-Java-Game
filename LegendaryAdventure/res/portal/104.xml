@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dane>
+    <Portal>
+        <xStart>2176</xStart>
+        <xEnd>2208</xEnd>
+        <yStart>928</yStart>
+		<yEnd>1312</yEnd>
+		<levelID>103</levelID>
+		<xNew>128</xNew>
+	    <yNew>1302</yNew>
+    </Portal>
+     <Portal>
+        <xStart>1472</xStart>
+        <xEnd>1632</xEnd>
+        <yStart>96</yStart>
+		<yEnd>160</yEnd>
+		<levelID>105</levelID>
+		<xNew>1411</xNew>
+	    <yNew>2922</yNew>
+    </Portal>
+	<Portal>
+        <xStart>866</xStart>
+        <xEnd>1180</xEnd>
+        <yStart>1779</yStart>
+		<yEnd>2100</yEnd>
+		<levelID>107</levelID>
+		<xNew>800</xNew>
+	    <yNew>160</yNew>
+    </Portal>
+</dane>
